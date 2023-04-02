@@ -1,0 +1,34 @@
+.box1 {
+    height: 289px;
+    background-color: antiquewhite;
+}
+.wel {
+    width: 350px;
+    height: 100px;
+}
+/* header start */
+header {
+    height: 60px;
+}
+.logo {
+  height: 60px;
+}
+.menu {
+    height: 60px;
+}
+/* header end */
+
+/* navber start */
+.side {
+    height: 400px;
+}
+.article {
+    height: 400px;
+}
+.card {
+    
+}
+/* navber end */
+.box {
+    height: 100px;
+}
